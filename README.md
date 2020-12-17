@@ -1,1 +1,1 @@
-# DSCI100
+# DSCI 100 Term Project
