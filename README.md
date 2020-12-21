@@ -4,7 +4,7 @@
 This was a team project created with the help of 3 other teammates. 
 
 ## What?
-An R KNN classification model that predicts an NBA player's All-Star status based on their individual player statistcs.
+An R classification model that predicts an NBA player's All-Star status based on their individual player statistcs with the help of the K-Nearest Neighbours algorithm.
 
 ## Where?
 Created on a Jupyter notebook from the comfort of my room.
