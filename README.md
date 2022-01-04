@@ -1,17 +1,3 @@
 # Data Science 100 Term Project
-
-## Who?
-This was a team project created with the help of 3 other teammates. 
-
-## What?
-An R classification model that predicts an NBA player's All-Star status based on their individual player statistcs with the help of the K-Nearest Neighbours algorithm.
-
-## Where?
-Created on a Jupyter notebook from the comfort of my room.
-
-## When?
-Started: November 2020 <br/>
-Finished: December 2020
-
-## Why
-This project allowed me to combine my interests of basketball and data science, and learn a ton while doing so. 
+Final project for DSCI 100: Introduction to Data Science. My team and I created a classification model using R and the KNN algorithm to identify "All-Star" NBA players 
+based on their individual statistics. Our final submission is in [report.ipynb](https://github.com/PrayusShrestha/DSCI100/blob/main/report.ipynb).
